@@ -17,5 +17,3 @@ See CALories here: (https://youtu.be/XNxRzLSrv7Q)
 ## Acknowledgments
 
 * Thank you StackOverflow
-
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
