@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Calories</string>
+    <string name="app_title">CALories</string>
+    <string name="welcome">For all your calorie needs.</string>
+    <string name="begin">Start</string>
+    <string name="title_activity_enter_info">EnterInfo</string>
+    <string name="reps_mins_message">Enter the number of reps/minutes!</string>
+    <string name="calculate">Calculate</string>
+    <string name="reps_message">Enter the number of reps below</string>
+    <string name="mins_message">Enter the number of minutes below</string>
+    <string name="result_message">Calories burned:</string>
+    <string name="other_exercises">Which is the equivalent of:</string>
+    <string name="pushup_message">rep(s) of pushups</string>
+    <string name="situp_message">rep(s) of situps</string>
+    <string name="jumpingjacks_message">minute(s) of jumping jacks</string>
+    <string name="squats_message">rep(s) of squats</string>
+    <string name="leg_lift_message">minute(s) of leg-lifts</string>
+    <string name="plank_message">minute(s) of planks</string>
+    <string name="pullup_message">rep(s) of pullups</string>
+    <string name="cycling_message">minute(s) of cycling</string>
+    <string name="walking_message">minute(s) of walking</string>
+    <string name="swimming_message">minute(s) of swimming</string>
+    <string name="stair_climbing_message">minute(s) of stair-climbing</string>
+    <string name="jogging_message">minute(s) of jogging</string>
+    <string name="select_exercise_message">Select an exercise below</string>
+    <string-array name="exercises">
+        <item>Pushup</item>
+        <item>Situp</item>
+        <item>Jumping Jacks</item>
+        <item>Jogging</item>
+        <item>Squats</item>
+        <item>Leg-lift</item>
+        <item>Plank</item>
+        <item>Pullup</item>
+        <item>Cycling</item>
+        <item>Walking</item>
+        <item>Swimming</item>
+        <item>Stair-Climbing</item>
+    </string-array>
+    <string-array name="repsExercises">
+        <item>Pushup</item>
+        <item>Situp</item>
+        <item>Squats</item>
+        <item>Pullup</item>
+    </string-array>
+    <string-array name="minsExercises">
+        <item>Jumping Jacks</item>
+        <item>Jogging</item>
+        <item>Leg-lift</item>
+        <item>Plank</item>
+        <item>Cycling</item>
+        <item>Walking</item>
+        <item>Swimming</item>
+        <item>Stair-Climbing</item>
+    </string-array>
+</resources>
