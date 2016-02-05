@@ -1,14 +1,14 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+PROG 01 for CS 160: User Interface Designs at UC Berkeley. This is a basic calorie converter app that takes in a given exercise and a number of minutes or repitions (depending on the exercise) and then tells you how many calories you would burn and how many of the other given exercises you would need to do to burn that number of calories. This assumes a person of about 150 pounds.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Patrick O'Halloran ([pohalloran@berkeley.edu](mailto:pohalloran@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See CALories here: (https://youtu.be/XNxRzLSrv7Q)
 
 ## Screenshots
 
@@ -16,7 +16,6 @@ See [your demo video title here] (https://link_to_your_video)
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Any other support
+* Thank you StackOverflow
 
 *Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
