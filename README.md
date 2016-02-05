@@ -12,7 +12,7 @@ See CALories here: (https://youtu.be/XNxRzLSrv7Q)
 
 ## Screenshots
 
-<embed src="screenshots/Screenshots.pdf" width="800px" height="2100px">
+<img src="screenshots/Screenshots.png" alt="workflow">
 
 ## Acknowledgments
 
